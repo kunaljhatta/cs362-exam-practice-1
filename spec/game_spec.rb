@@ -3,8 +3,9 @@ require_relative '../lib/game'
 describe 'A game' do
 
   it 'exists' do
-    Game.new
     
+    Game.new
+
   end
 
   it 'can start' do
