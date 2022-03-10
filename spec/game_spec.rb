@@ -4,6 +4,7 @@ describe 'A game' do
 
   it 'exists' do
     Game.new
+    
   end
 
   it 'can start' do
